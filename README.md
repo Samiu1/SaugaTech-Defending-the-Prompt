@@ -4,6 +4,9 @@
 In this repo you'll find resources to supplment our session at the [SaugaTech Event on June 20th](https://simpli.events/e/sauga-tech-meetups?utm_source=substack&utm_medium=email), facilitated by Samiul Islam and Aries Youssefian. 
 
 
+
+
+
 ## Tools
 ### 🔍 ZAP Security Audit (`zap-security-audit`)
 **Description:** OWASP ZAP (Zed Attack Proxy) is a free, open-source web application security scanner that performs automated security and vulnerability audits. It finds security gaps in web apps and APIs, including SQL Injection, XSS, CSRF, and OWASP Top 10 vulnerabilities [web:2][web:7].
@@ -47,4 +50,14 @@ In this repo you'll find resources to supplment our session at the [SaugaTech Ev
 * Creating new API endpoints or integrating third-party APIs.
 * Working with secrets, credentials, or environment variables.
 * Storing or transmitting sensitive data.
+
+
+## Links
+
+*[Free Security Course on OWASP Top 10 and emerging AI vulnerabilities](https://www.hacksplaining.com/?utm_source=cybersectools.com&utm_medium=tool-detail)
+* [AI Security Solutions guide from Wiz](https://www.wiz.io/academy/ai-security/ai-security-solutions)
+*[Prompt Injection Prevention Checklist](https://cheatsheetseries.owasp.org/cheatsheets/LLM_Prompt_Injection_Prevention_Cheat_Sheet.html)
+*[Practice Prompt Injection](https://gandalf.lakera.ai/gandalf-the-white)
+
+
 
