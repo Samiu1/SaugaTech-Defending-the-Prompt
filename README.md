@@ -1,4 +1,4 @@
-# SaugaTech-Defending-the-Promp
+# SaugaTech-Defending-the-Prompt
 ## Building Secure Tech Products in the AI era
 
 In this repo you'll find resources to supplement our session at the [SaugaTech Event on June 20th](https://simpli.events/e/sauga-tech-meetups?utm_source=substack&utm_medium=email), facilitated by [Samiul Islam ](https://www.linkedin.com/in/samiulislam/)and [Aries Youssefian](https://www.linkedin.com/in/ariesyous/).
